@@ -9,7 +9,7 @@
 <p><a href="https://github.com/Oleafly/Oleafly/stargazers"><img src="https://img.shields.io/github/stars/Oleafly/Oleafly?style=flat&label=stars&color=22c55e" alt="GitHub stars"></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"> <a href="https://oleafly.com"><img src="https://img.shields.io/badge/website-oleafly.com-22c55e" alt="oleafly.com"></a></p>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/folderskin-dark.gif"><a href="https://github.com/prajwal-svm/folderskin"><img src="assets/folderskin.gif" alt="FolderSkin: a folder icon cycling through skins from art, photos and AI" width="100%"></a></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/folderskin-dark.gif"><img src="assets/folderskin.gif" alt="FolderSkin: a folder icon cycling through skins from art, photos and AI" width="100%"></picture>
 <h3><a href="https://github.com/prajwal-svm/folderskin">FolderSkin</a></h3>
 <p>Give any folder a skin. A free, open-source folder icon changer for macOS, Windows and Linux: skins from community packs, your own photos, or folders painted by AI.</p>
 <p><a href="https://github.com/prajwal-svm/folderskin/stargazers"><img src="https://img.shields.io/github/stars/prajwal-svm/folderskin?style=flat&label=stars&color=3A86FF" alt="GitHub stars"></a> <img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white" alt="Rust"> <a href="https://folderskin.app"><img src="https://img.shields.io/badge/website-folderskin.app-3A86FF" alt="folderskin.app"></a></p>
@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/peekling-dark.gif"><a href="https://github.com/peekling/peekling-engine"><img src="assets/peekling.gif" alt="Ten Peekling characters, each playing a different state: waving, listening to music, hopping, thinking, flying, running, blinking, clicking and sleeping" width="100%"></a></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/peekling-dark.gif"><img src="assets/peekling.gif" alt="Ten Peekling characters, each playing a different state: waving, listening to music, hopping, thinking, flying, running, blinking, clicking and sleeping" width="100%"></picture>
 <h3><a href="https://github.com/peekling/peekling-engine">Peekling</a></h3>
 <p>Tiny interactive friends for your website. A dependency-free browser runtime and tooling for interactive Peekling characters.</p>
 <p><a href="https://github.com/peekling/peekling-engine/stargazers"><img src="https://img.shields.io/github/stars/peekling/peekling-engine?style=flat&label=stars&color=f59e0b" alt="GitHub stars"></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"> <a href="https://peekling.com"><img src="https://img.shields.io/badge/website-peekling.com-f59e0b" alt="peekling.com"></a></p>
