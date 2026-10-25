@@ -26,7 +26,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/peekling-dark.gif"><img src="assets/peekling.gif" alt="Ten Peekling characters, each playing a different state: waving, listening to music, hopping, thinking, flying, running, blinking, clicking and sleeping" width="100%"></picture>
+<a href="https://github.com/peekling/peekling-engine"><img src="assets/peekling-demo.webp" alt="Peekling demo on peekling.com: Peek switches to Mochi and back, plays X and O inside its bubble, follows the pointer across the page, and celebrates when the two-line install is copied." width="100%"></a>
 <h3><a href="https://github.com/peekling/peekling-engine">Peekling</a></h3>
 <p>Tiny interactive friends for your website. A dependency-free browser runtime and tooling for interactive Peekling characters.</p>
 </td>
