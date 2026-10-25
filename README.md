@@ -3,12 +3,12 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Oleafly/Oleafly"><img src="assets/oleafly.gif" alt="Oleafly: the LaTeX editor, PDF preview and AI agent side by side, then the project library, diagram composer, dark theme and visual editor" width="100%"></a>
+<a href="https://github.com/Oleafly/Oleafly"><img src="assets/oleafly-demo.webp" alt="Oleafly demo: three co-authors edit the same LaTeX file at once, each with their own cursor. A reply to a comment is typed live and the thread is resolved. Then the AI agent asks to change references.bib, shows the diff and waits for approval." width="100%"></a>
 <h3><a href="https://github.com/Oleafly/Oleafly">Oleafly</a></h3>
 <p>The local-first, AI-assisted research workspace for scientific writing and publishing. Research, write, compile, verify and publish in LaTeX, Typst or Markdown. Git-native, open source, desktop performance.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/prajwal-svm/folderskin"><img src="assets/folderskin.webp" alt="FolderSkin demo: the Japan trip folder is dragged from Finder into the app and tries on two skins. AI paints it a Kyoto travel poster from a typed prompt, and the skin is applied. Back in Finder, every folder has a skin of its own." width="100%"></a>
+<a href="https://github.com/prajwal-svm/folderskin"><img src="assets/folderskin-demo.webp" alt="FolderSkin demo: the Japan trip folder is dragged from Finder into the app and tries on two skins. AI paints it a Kyoto travel poster from a typed prompt, and the skin is applied. Back in Finder, every folder has a skin of its own." width="100%"></a>
 <h3><a href="https://github.com/prajwal-svm/folderskin">FolderSkin</a></h3>
 <p>Give any folder a skin. A free, open-source folder icon changer for macOS, Windows and Linux: skins from community packs, your own photos, or folders painted by AI.</p>
 </td>
